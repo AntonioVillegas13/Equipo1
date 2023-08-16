@@ -1,3 +1,3 @@
-generarSaludo= function(nombre,apellido){
-    return "HOLA"+nombre+" "+apellido
-}
+generarSaludo = function (nombre, apellido) {
+  return "HOLA " + nombre + " " + apellido;
+};
